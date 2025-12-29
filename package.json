@@ -1,6 +1,6 @@
 {
-  "name": "lotto-ai",
-  "version": "1.0.0",
+  "name": "ai-lotto-web",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
